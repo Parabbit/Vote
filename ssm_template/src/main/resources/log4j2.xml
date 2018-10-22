@@ -9,7 +9,6 @@
 		<!--自定义包中类的日志级别-->
         <Logger name="com.yc" level="debug"/>
         
-        
         <!-- 日志级别总开头 -->
         <Root level="warn">
             <AppenderRef ref="STDOUT"/>
