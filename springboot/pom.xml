@@ -3,7 +3,7 @@
   <groupId>com.company</groupId>
   <artifactId>springboot</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>myboot</name>
+  <name>myboot</name> 
   <!-- 继承spring boot的相关配置 -->
   <parent>
   	<groupId>org.springframework.boot</groupId>
